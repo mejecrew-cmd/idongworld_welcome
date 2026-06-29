@@ -113,6 +113,8 @@ section { padding: var(--section-gap) var(--spacing-24); }
 /* ── 히어로 워드마크 ── */
 .hero { text-align: center; padding-top: var(--spacing-48); padding-bottom: var(--spacing-32); }
 .wordmark { margin: 0; max-width: 100%; }
+/* Latin 브랜드 워드마크는 RTL 언어에서도 항상 좌→우 */
+.wordmark, .morph__svg { direction: ltr; }
 
 /* ── 타이틀 "결합" 연출 (7s · 흩어진 빛에서 모여 맺힘 → 다시 풀어짐 · 몽실몽실 몽환) ──
    IDO(채움)·NG(외곽선)·World(커시브) 세 빛덩이 + 빛가루가 부드럽게 결합. */

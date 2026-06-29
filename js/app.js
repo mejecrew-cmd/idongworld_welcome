@@ -133,8 +133,14 @@
   function renderSlot(bigEl, lyricEl, srcEl, row, num, fmt) {
     if (!bigEl) return;
     bigEl.textContent = (fmt || "{n}").replace("{n}", String(num));
-    if (lyricEl) lyricEl.textContent = row ? (row.text || "") : "";
-    if (srcEl) srcEl.textContent = (row && row.source) ? ("— " + row.source) : "";
+    if (row) {                                   // 실제 곡
+      if (lyricEl) lyricEl.textContent = row.text || "";
+      if (srcEl) srcEl.textContent = row.source ? ("— " + row.source) : "";
+    } else {                                     // 가사 없는 시각 → 아이동월드 브랜드 폴백
+      if (lyricEl) lyricEl.textContent = t("clock_filler_line") || "";
+      var fsrc = t("clock_filler_source");
+      if (srcEl) srcEl.textContent = fsrc ? ("— " + fsrc) : "";
+    }
   }
 
   function escapeHtml(s) {
