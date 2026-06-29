@@ -347,3 +347,67 @@ body[dir="rtl"] .star-item { flex-direction: row-reverse; }
   .cloud, .star-dot, .scroll-cue, .cta__btn, .clock__big { animation: none; }
   html { scroll-behavior: auto; }
 }
+
+/* ============================================================
+ * 아이동월드 데코 — 아이동 개인섬 + 캐릭터 (세계관 연출)
+ * ============================================================ */
+/* 공통 섬 모양 */
+.isle-body, .bigisle-body {
+  display: block; border-radius: 50%;
+  background: linear-gradient(180deg,#aedba8 0%,#7cc187 36%,#4f8a73 68%,#39605a 100%);
+  box-shadow: 0 18px 34px rgba(18,38,58,.30), inset 0 6px 0 rgba(255,255,255,.30), inset 0 -12px 20px rgba(0,0,0,.18);
+}
+.isle-char, .bigisle-char { position: absolute; left: 50%; transform: translateX(-50%);
+  filter: drop-shadow(0 6px 8px rgba(0,0,0,.22)); }
+.sd-spark { position: absolute; width: 6px; height: 6px; border-radius: 50%; background: #fff;
+  box-shadow: 0 0 10px 2px rgba(255,255,255,.9); opacity: .5; animation: twinkle 3.2s ease-in-out infinite; }
+
+/* PC 좌우 플로팅 개인섬 (모바일 숨김) */
+.side-deco { position: fixed; top: 0; bottom: 0; z-index: 0; pointer-events: none; overflow: hidden;
+  width: clamp(180px, calc((100vw - 470px) / 2), 520px); }
+.side-deco--left { left: 0; } .side-deco--right { right: 0; }
+.floatisle { position: absolute; animation: floaty 7.5s ease-in-out infinite; }
+.floatisle .isle-body { width: 188px; height: 76px; }
+.floatisle .isle-char { width: 116px; bottom: 44px; }
+.isle-a { top: 23%; left: 14%; }
+.isle-b { top: 57%; left: 40%; transform: scale(.76); animation-duration: 9s; animation-delay: -2s; }
+.isle-c { top: 27%; right: 15%; animation-duration: 8.2s; }
+.isle-d { top: 61%; right: 38%; transform: scale(.72); animation-duration: 9.6s; animation-delay: -3s; }
+@media (max-width: 1040px) { .side-deco { display: none; } }
+
+/* 히어로/시계/버튼 빼꼼 캐릭터 */
+.hero { position: relative; }
+.hero-buddy { position: absolute; width: 74px; right: 5%; top: 150px; transform: rotate(7deg);
+  filter: drop-shadow(0 6px 8px rgba(0,0,0,.20)); animation: floaty 5s ease-in-out infinite; z-index: 2; }
+.clock { position: relative; }
+.clock-buddy { position: absolute; width: 56px; right: 2px; top: 52px; z-index: 3;
+  filter: drop-shadow(0 4px 6px rgba(0,0,0,.22)); animation: floaty 6s ease-in-out infinite; }
+.cta { position: relative; }
+.cta-buddy { display: block; width: 62px; margin: 0 auto 6px;
+  filter: drop-shadow(0 4px 6px rgba(0,0,0,.20)); animation: floaty 5.5s ease-in-out infinite; }
+
+/* 하단 반짝섬 씬 */
+.sea-scene { position: relative; z-index: 1; height: 220px; margin-top: 6px; overflow: hidden; pointer-events: none; }
+.sea { position: absolute; left: -3%; right: -3%; bottom: 0; height: 118px;
+  background: linear-gradient(180deg, #5e88b2 0%, #3c5f88 55%, #2c4668 100%);
+  border-radius: 46% 54% 0 0 / 38px 38px 0 0; }
+.sea .wave { position: absolute; top: 14px; left: 8%; right: 8%; height: 2px; border-radius: 2px;
+  background: rgba(255,255,255,.30); }
+.bigisle { position: absolute; left: 50%; bottom: 76px; transform: translateX(-50%); width: 320px; height: 124px; }
+.bigisle-body { width: 320px; height: 118px; }
+.bigisle-char { bottom: 62px; }
+.bigisle .c1 { width: 76px; left: 27%; }
+.bigisle .c2 { width: 92px; left: 50%; }
+.bigisle .c3 { width: 76px; left: 73%; }
+
+@media (max-width: 480px) {
+  .hero-buddy { width: 58px; right: 3%; top: 158px; }
+  .clock-buddy { width: 48px; top: 46px; }
+  .sea-scene { height: 180px; }
+  .bigisle { width: 250px; bottom: 64px; } .bigisle-body { width: 250px; height: 96px; }
+  .bigisle .c2 { width: 74px; } .bigisle .c1, .bigisle .c3 { width: 60px; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .floatisle, .sd-spark, .hero-buddy, .clock-buddy, .cta-buddy { animation: none; }
+}
