@@ -5,6 +5,11 @@
  * ============================================================ */
 window.IDW_I18N = {
   "ko": {
+    "wiki_badge": "지금 공개",
+    "wiki_kicker": "지금 바로",
+    "wiki_title": "아이동월드 위키",
+    "wiki_body": "2,832종 아이템 도감과 세계관을 한곳에. 반짝이는 아이동들의 세계를 둘러보세요.",
+    "wiki_button": "위키 구경하러 가기 →",
     "top_label": "아이동월드",
     "hero_caption": "IDOL + 動物 = 아이동",
     "clock_kicker": "지금, K-pop 시계",
@@ -30,6 +35,11 @@ window.IDW_I18N = {
     "biz_info": "주식회사 메제웍스ㅣ대표자 : 김동은ㅣ772-87-02365ㅣ서울특별시 강남구 역삼로 217. 503호(역삼동)ㅣ0507-1420-1205"
   },
   "en": {
+    "wiki_badge": "NOW LIVE",
+    "wiki_kicker": "Open now",
+    "wiki_title": "IDONG World Wiki",
+    "wiki_body": "2,832 collectible items and the whole world of aidong, all in one place.",
+    "wiki_button": "Open the Wiki →",
     "top_label": "IDONG World",
     "hero_caption": "IDOL + DONGMUL (animal) = IDONG",
     "clock_kicker": "Now · the K-pop Clock",
@@ -55,6 +65,11 @@ window.IDW_I18N = {
     "biz_info": "MEJE Works Inc. | Kim Dong-eun | 772-87-02365 | 503, 217, Yeoksam-ro, Gangnam-gu, Seoul | 0507-1420-120"
   },
   "ja": {
+    "wiki_badge": "公開中",
+    "wiki_kicker": "今すぐ",
+    "wiki_title": "アイドンワールド ウィキ",
+    "wiki_body": "2,832種のアイテム図鑑と世界観をひとつに。きらめくアイドンたちの世界をのぞいてみよう。",
+    "wiki_button": "ウィキを見に行く →",
     "top_label": "IDONG World",
     "hero_caption": "IDOL + 動物 = アイドン",
     "clock_kicker": "いま、K-popとけい",
@@ -80,6 +95,11 @@ window.IDW_I18N = {
     "biz_info": "MEJE Works Inc. | Kim Dong-eun | 772-87-02365 | 503, 217, Yeoksam-ro, Gangnam-gu, Seoul | 0507-1420-120"
   },
   "zh-Hans": {
+    "wiki_badge": "现已上线",
+    "wiki_kicker": "立即查看",
+    "wiki_title": "爱动世界 Wiki",
+    "wiki_body": "2,832 种道具图鉴与世界观尽在一处，快来探索爱动们的闪耀世界。",
+    "wiki_button": "前往 Wiki →",
     "top_label": "IDONG World",
     "hero_caption": "IDOL + 動物 = IDONG",
     "clock_kicker": "此刻 · K-pop 时钟",
@@ -105,6 +125,11 @@ window.IDW_I18N = {
     "biz_info": "MEJE Works Inc. | Kim Dong-eun | 772-87-02365 | 503, 217, Yeoksam-ro, Gangnam-gu, Seoul | 0507-1420-120"
   },
   "zh-Hant": {
+    "wiki_badge": "現已上線",
+    "wiki_kicker": "立即查看",
+    "wiki_title": "愛動世界 Wiki",
+    "wiki_body": "2,832 種道具圖鑑與世界觀盡在一處，快來探索愛動們的閃耀世界。",
+    "wiki_button": "前往 Wiki →",
     "top_label": "IDONG World",
     "hero_caption": "IDOL + 動物 = 阿伊咚",
     "clock_kicker": "此刻 · K-pop 時鐘",
@@ -130,6 +155,11 @@ window.IDW_I18N = {
     "biz_info": "MEJE Works Inc. | Kim Dong-eun | 772-87-02365 | 503, 217, Yeoksam-ro, Gangnam-gu, Seoul | 0507-1420-120"
   },
   "es": {
+    "wiki_badge": "YA DISPONIBLE",
+    "wiki_kicker": "Explóralo ya",
+    "wiki_title": "Wiki de IDONG World",
+    "wiki_body": "2.832 objetos de colección y todo el mundo de los aidong, en un solo lugar.",
+    "wiki_button": "Abrir la Wiki →",
     "top_label": "IDONG World",
     "hero_caption": "IDOL + ANIMAL = IDONG",
     "clock_kicker": "Ahora · el reloj K-pop",
@@ -155,6 +185,11 @@ window.IDW_I18N = {
     "biz_info": "MEJE Works Inc. | Kim Dong-eun | 772-87-02365 | 503, 217, Yeoksam-ro, Gangnam-gu, Seoul | 0507-1420-120"
   },
   "es-419": {
+    "wiki_badge": "YA DISPONIBLE",
+    "wiki_kicker": "Explóralo ya",
+    "wiki_title": "Wiki de IDONG World",
+    "wiki_body": "2.832 objetos de colección y todo el mundo de los aidong, en un solo lugar.",
+    "wiki_button": "Abrir la Wiki →",
     "top_label": "IDONG World",
     "hero_caption": "IDOL + ANIMAL = IDONG",
     "clock_kicker": "Ahora · el reloj K-pop",
@@ -180,6 +215,11 @@ window.IDW_I18N = {
     "biz_info": "MEJE Works Inc. | Kim Dong-eun | 772-87-02365 | 503, 217, Yeoksam-ro, Gangnam-gu, Seoul | 0507-1420-120"
   },
   "es-MX": {
+    "wiki_badge": "YA DISPONIBLE",
+    "wiki_kicker": "Explóralo ya",
+    "wiki_title": "Wiki de IDONG World",
+    "wiki_body": "2.832 objetos de colección y todo el mundo de los aidong, en un solo lugar.",
+    "wiki_button": "Abrir la Wiki →",
     "top_label": "IDONG World",
     "hero_caption": "IDOL + ANIMAL = IDONG",
     "clock_kicker": "Ahora · el reloj K-pop",
@@ -205,6 +245,11 @@ window.IDW_I18N = {
     "biz_info": "MEJE Works Inc. | Kim Dong-eun | 772-87-02365 | 503, 217, Yeoksam-ro, Gangnam-gu, Seoul | 0507-1420-120"
   },
   "es-AR": {
+    "wiki_badge": "YA DISPONIBLE",
+    "wiki_kicker": "Explóralo ya",
+    "wiki_title": "Wiki de IDONG World",
+    "wiki_body": "2.832 objetos de colección y todo el mundo de los aidong, en un solo lugar.",
+    "wiki_button": "Abrir la Wiki →",
     "top_label": "IDONG World",
     "hero_caption": "IDOL + animal = IDONG",
     "clock_kicker": "Ahora · el reloj K-pop",
@@ -230,6 +275,11 @@ window.IDW_I18N = {
     "biz_info": "MEJE Works Inc. | Kim Dong-eun | 772-87-02365 | 503, 217, Yeoksam-ro, Gangnam-gu, Seoul | 0507-1420-120"
   },
   "es-CL": {
+    "wiki_badge": "YA DISPONIBLE",
+    "wiki_kicker": "Explóralo ya",
+    "wiki_title": "Wiki de IDONG World",
+    "wiki_body": "2.832 objetos de colección y todo el mundo de los aidong, en un solo lugar.",
+    "wiki_button": "Abrir la Wiki →",
     "top_label": "IDONG World",
     "hero_caption": "IDOL + animal (動物) = IDONG",
     "clock_kicker": "Ahora · el reloj K-pop",
@@ -255,6 +305,11 @@ window.IDW_I18N = {
     "biz_info": "MEJE Works Inc. | Kim Dong-eun | 772-87-02365 | 503, 217, Yeoksam-ro, Gangnam-gu, Seoul | 0507-1420-120"
   },
   "pt-BR": {
+    "wiki_badge": "JÁ DISPONÍVEL",
+    "wiki_kicker": "Explore agora",
+    "wiki_title": "Wiki do IDONG World",
+    "wiki_body": "2.832 itens de coleção e todo o mundo dos aidong em um só lugar.",
+    "wiki_button": "Abrir a Wiki →",
     "top_label": "IDONG World",
     "hero_caption": "IDOL + ANIMAL = IDONG",
     "clock_kicker": "Agora · o relógio do K-pop",
@@ -280,6 +335,11 @@ window.IDW_I18N = {
     "biz_info": "MEJE Works Inc. | Kim Dong-eun | 772-87-02365 | 503, 217, Yeoksam-ro, Gangnam-gu, Seoul | 0507-1420-120"
   },
   "pt-PT": {
+    "wiki_badge": "JÁ DISPONÍVEL",
+    "wiki_kicker": "Explore agora",
+    "wiki_title": "Wiki do IDONG World",
+    "wiki_body": "2.832 itens de coleção e todo o mundo dos aidong em um só lugar.",
+    "wiki_button": "Abrir a Wiki →",
     "top_label": "IDONG World",
     "hero_caption": "IDOL + ANIMAL = IDONG",
     "clock_kicker": "Agora · o Relógio K-pop",
@@ -305,6 +365,11 @@ window.IDW_I18N = {
     "biz_info": "MEJE Works Inc. | Kim Dong-eun | 772-87-02365 | 503, 217, Yeoksam-ro, Gangnam-gu, Seoul | 0507-1420-120"
   },
   "fr": {
+    "wiki_badge": "EN LIGNE",
+    "wiki_kicker": "À découvrir",
+    "wiki_title": "Wiki IDONG World",
+    "wiki_body": "2 832 objets à collectionner et tout l’univers des aidong, réunis en un seul endroit.",
+    "wiki_button": "Ouvrir le Wiki →",
     "top_label": "IDONG World",
     "hero_caption": "IDOL + ANIMAL = IDONG",
     "clock_kicker": "Maintenant · l'horloge K-pop",
@@ -330,6 +395,11 @@ window.IDW_I18N = {
     "biz_info": "MEJE Works Inc. | Kim Dong-eun | 772-87-02365 | 503, 217, Yeoksam-ro, Gangnam-gu, Seoul | 0507-1420-120"
   },
   "fr-CA": {
+    "wiki_badge": "EN LIGNE",
+    "wiki_kicker": "À découvrir",
+    "wiki_title": "Wiki IDONG World",
+    "wiki_body": "2 832 objets à collectionner et tout l’univers des aidong, réunis en un seul endroit.",
+    "wiki_button": "Ouvrir le Wiki →",
     "top_label": "IDONG World",
     "hero_caption": "IDOL + ANIMAL = IDONG",
     "clock_kicker": "En ce moment · l'horloge K-pop",
@@ -355,6 +425,11 @@ window.IDW_I18N = {
     "biz_info": "MEJE Works Inc. | Kim Dong-eun | 772-87-02365 | 503, 217, Yeoksam-ro, Gangnam-gu, Seoul | 0507-1420-120"
   },
   "de": {
+    "wiki_badge": "JETZT LIVE",
+    "wiki_kicker": "Jetzt entdecken",
+    "wiki_title": "IDONG World Wiki",
+    "wiki_body": "2.832 Sammelobjekte und die ganze Welt der Aidong an einem Ort.",
+    "wiki_button": "Zum Wiki →",
     "top_label": "IDONG World",
     "hero_caption": "IDOL + Tier = IDONG",
     "clock_kicker": "Jetzt · die K-Pop-Uhr",
@@ -380,6 +455,11 @@ window.IDW_I18N = {
     "biz_info": "MEJE Works Inc. | Kim Dong-eun | 772-87-02365 | 503, 217, Yeoksam-ro, Gangnam-gu, Seoul | 0507-1420-120"
   },
   "it": {
+    "wiki_badge": "ORA ONLINE",
+    "wiki_kicker": "Esplora ora",
+    "wiki_title": "Wiki di IDONG World",
+    "wiki_body": "2.832 oggetti da collezione e tutto il mondo degli aidong in un unico posto.",
+    "wiki_button": "Apri la Wiki →",
     "top_label": "IDONG World",
     "hero_caption": "IDOL + ANIMALE = IDONG",
     "clock_kicker": "Ora · l'orologio K-pop",
@@ -405,6 +485,11 @@ window.IDW_I18N = {
     "biz_info": "MEJE Works Inc. | Kim Dong-eun | 772-87-02365 | 503, 217, Yeoksam-ro, Gangnam-gu, Seoul | 0507-1420-120"
   },
   "nl": {
+    "wiki_badge": "NU LIVE",
+    "wiki_kicker": "Ontdek nu",
+    "wiki_title": "IDONG World Wiki",
+    "wiki_body": "2.832 verzamelobjecten en de hele wereld van de aidong op één plek.",
+    "wiki_button": "Open de Wiki →",
     "top_label": "IDONG World",
     "hero_caption": "IDOL + DIER = IDONG",
     "clock_kicker": "Nu · de K-pop-klok",
@@ -430,6 +515,11 @@ window.IDW_I18N = {
     "biz_info": "MEJE Works Inc. | Kim Dong-eun | 772-87-02365 | 503, 217, Yeoksam-ro, Gangnam-gu, Seoul | 0507-1420-120"
   },
   "ru": {
+    "wiki_badge": "УЖЕ ДОСТУПНО",
+    "wiki_kicker": "Открыть сейчас",
+    "wiki_title": "Вики IDONG World",
+    "wiki_body": "2 832 коллекционных предмета и целый мир айдонов в одном месте.",
+    "wiki_button": "Открыть вики →",
     "top_label": "IDONG World",
     "hero_caption": "IDOL + ЖИВОТНОЕ = IDONG",
     "clock_kicker": "Сейчас · K-pop часы",
@@ -455,6 +545,11 @@ window.IDW_I18N = {
     "biz_info": "MEJE Works Inc. | Kim Dong-eun | 772-87-02365 | 503, 217, Yeoksam-ro, Gangnam-gu, Seoul | 0507-1420-120"
   },
   "uk": {
+    "wiki_badge": "УЖЕ ДОСТУПНО",
+    "wiki_kicker": "Відкрити зараз",
+    "wiki_title": "Вікі IDONG World",
+    "wiki_body": "2 832 колекційні предмети та цілий світ айдонів в одному місці.",
+    "wiki_button": "Відкрити вікі →",
     "top_label": "IDONG World",
     "hero_caption": "IDOL + ТВАРИНА = IDONG",
     "clock_kicker": "Зараз · K-pop годинник",
@@ -480,6 +575,11 @@ window.IDW_I18N = {
     "biz_info": "MEJE Works Inc. | Kim Dong-eun | 772-87-02365 | 503, 217, Yeoksam-ro, Gangnam-gu, Seoul | 0507-1420-120"
   },
   "pl": {
+    "wiki_badge": "JUŻ DOSTĘPNE",
+    "wiki_kicker": "Sprawdź teraz",
+    "wiki_title": "Wiki IDONG World",
+    "wiki_body": "2832 przedmioty kolekcjonerskie i cały świat aidonów w jednym miejscu.",
+    "wiki_button": "Otwórz Wiki →",
     "top_label": "IDONG World",
     "hero_caption": "IDOL + ZWIERZĘ = IDONG",
     "clock_kicker": "Teraz · Zegar K-popu",
@@ -505,6 +605,11 @@ window.IDW_I18N = {
     "biz_info": "MEJE Works Inc. | Kim Dong-eun | 772-87-02365 | 503, 217, Yeoksam-ro, Gangnam-gu, Seoul | 0507-1420-120"
   },
   "cs-CZ": {
+    "wiki_badge": "UŽ SPUŠTĚNO",
+    "wiki_kicker": "Prozkoumat teď",
+    "wiki_title": "Wiki IDONG World",
+    "wiki_body": "2 832 sběratelských předmětů a celý svět aidonů na jednom místě.",
+    "wiki_button": "Otevřít Wiki →",
     "top_label": "IDONG World",
     "hero_caption": "IDOL + ZVÍŘE = IDONG",
     "clock_kicker": "Teď · K-pop hodiny",
@@ -530,6 +635,11 @@ window.IDW_I18N = {
     "biz_info": "MEJE Works Inc. | Kim Dong-eun | 772-87-02365 | 503, 217, Yeoksam-ro, Gangnam-gu, Seoul | 0507-1420-120"
   },
   "hu": {
+    "wiki_badge": "MOST ÉLŐBEN",
+    "wiki_kicker": "Fedezd fel",
+    "wiki_title": "IDONG World Wiki",
+    "wiki_body": "2832 gyűjthető tárgy és az aidongok egész világa egy helyen.",
+    "wiki_button": "Wiki megnyitása →",
     "top_label": "IDONG World",
     "hero_caption": "IDOL + ÁLLAT = IDONG",
     "clock_kicker": "Most · a K-pop óra",
@@ -555,6 +665,11 @@ window.IDW_I18N = {
     "biz_info": "MEJE Works Inc. | Kim Dong-eun | 772-87-02365 | 503, 217, Yeoksam-ro, Gangnam-gu, Seoul | 0507-1420-120"
   },
   "sq": {
+    "wiki_badge": "TANI LIVE",
+    "wiki_kicker": "Eksploro tani",
+    "wiki_title": "Wiki i IDONG World",
+    "wiki_body": "2.832 sende koleksioni dhe e gjithë bota e aidong-ëve në një vend.",
+    "wiki_button": "Hap Wiki-n →",
     "top_label": "IDONG World",
     "hero_caption": "IDOL + KAFSHË = IDONG",
     "clock_kicker": "Tani · Ora K-pop",
@@ -580,6 +695,11 @@ window.IDW_I18N = {
     "biz_info": "MEJE Works Inc. | Kim Dong-eun | 772-87-02365 | 503, 217, Yeoksam-ro, Gangnam-gu, Seoul | 0507-1420-120"
   },
   "ca-ES": {
+    "wiki_badge": "JA DISPONIBLE",
+    "wiki_kicker": "Explora-ho ara",
+    "wiki_title": "Wiki d’IDONG World",
+    "wiki_body": "2.832 objectes de col·lecció i tot el món dels aidong en un sol lloc.",
+    "wiki_button": "Obre la Wiki →",
     "top_label": "IDONG World",
     "hero_caption": "IDOL + ANIMAL = IDONG",
     "clock_kicker": "Ara · el rellotge K-pop",
@@ -605,6 +725,11 @@ window.IDW_I18N = {
     "biz_info": "MEJE Works Inc. | Kim Dong-eun | 772-87-02365 | 503, 217, Yeoksam-ro, Gangnam-gu, Seoul | 0507-1420-120"
   },
   "da": {
+    "wiki_badge": "NU LIVE",
+    "wiki_kicker": "Udforsk nu",
+    "wiki_title": "IDONG World Wiki",
+    "wiki_body": "2.832 samleobjekter og hele aidong-verdenen ét sted.",
+    "wiki_button": "Åbn wikien →",
     "top_label": "IDONG World",
     "hero_caption": "IDOL + DYR = IDONG",
     "clock_kicker": "Lige nu · K-pop-uret",
@@ -630,6 +755,11 @@ window.IDW_I18N = {
     "biz_info": "MEJE Works Inc. | Kim Dong-eun | 772-87-02365 | 503, 217, Yeoksam-ro, Gangnam-gu, Seoul | 0507-1420-120"
   },
   "sv": {
+    "wiki_badge": "NU LIVE",
+    "wiki_kicker": "Utforska nu",
+    "wiki_title": "IDONG World Wiki",
+    "wiki_body": "2 832 samlarobjekt och hela aidong-världen på ett ställe.",
+    "wiki_button": "Öppna wikin →",
     "top_label": "IDONG World",
     "hero_caption": "IDOL + DJUR = IDONG",
     "clock_kicker": "Just nu · K-pop-klockan",
@@ -655,6 +785,11 @@ window.IDW_I18N = {
     "biz_info": "MEJE Works Inc. | Kim Dong-eun | 772-87-02365 | 503, 217, Yeoksam-ro, Gangnam-gu, Seoul | 0507-1420-120"
   },
   "id": {
+    "wiki_badge": "SUDAH HADIR",
+    "wiki_kicker": "Jelajahi sekarang",
+    "wiki_title": "Wiki IDONG World",
+    "wiki_body": "2.832 item koleksi dan seluruh dunia aidong dalam satu tempat.",
+    "wiki_button": "Buka Wiki →",
     "top_label": "IDONG World",
     "hero_caption": "IDOL + DONGMUL (hewan) = IDONG",
     "clock_kicker": "Sekarang · Jam K-pop",
@@ -680,6 +815,11 @@ window.IDW_I18N = {
     "biz_info": "MEJE Works Inc. | Kim Dong-eun | 772-87-02365 | 503, 217, Yeoksam-ro, Gangnam-gu, Seoul | 0507-1420-120"
   },
   "ms": {
+    "wiki_badge": "KINI HADIR",
+    "wiki_kicker": "Terokai sekarang",
+    "wiki_title": "Wiki IDONG World",
+    "wiki_body": "2,832 item koleksi dan seluruh dunia aidong di satu tempat.",
+    "wiki_button": "Buka Wiki →",
     "top_label": "IDONG World",
     "hero_caption": "IDOL + HAIWAN = IDONG",
     "clock_kicker": "Sekarang · Jam K-pop",
@@ -705,6 +845,11 @@ window.IDW_I18N = {
     "biz_info": "MEJE Works Inc. | Kim Dong-eun | 772-87-02365 | 503, 217, Yeoksam-ro, Gangnam-gu, Seoul | 0507-1420-120"
   },
   "tl": {
+    "wiki_badge": "BUKAS NA",
+    "wiki_kicker": "Tuklasin ngayon",
+    "wiki_title": "IDONG World Wiki",
+    "wiki_body": "2,832 na koleksyong item at ang buong mundo ng aidong sa iisang lugar.",
+    "wiki_button": "Buksan ang Wiki →",
     "top_label": "IDONG World",
     "hero_caption": "IDOL + HAYOP = IDONG",
     "clock_kicker": "Ngayon · ang K-pop na Orasan",
@@ -730,6 +875,11 @@ window.IDW_I18N = {
     "biz_info": "MEJE Works Inc. | Kim Dong-eun | 772-87-02365 | 503, 217, Yeoksam-ro, Gangnam-gu, Seoul | 0507-1420-120"
   },
   "vi": {
+    "wiki_badge": "ĐÃ RA MẮT",
+    "wiki_kicker": "Khám phá ngay",
+    "wiki_title": "Wiki IDONG World",
+    "wiki_body": "2.832 vật phẩm sưu tầm và cả thế giới aidong trong một nơi.",
+    "wiki_button": "Mở Wiki →",
     "top_label": "IDONG World",
     "hero_caption": "IDOL + ĐỘNG VẬT = IDONG",
     "clock_kicker": "Ngay bây giờ · Đồng hồ K-pop",
@@ -755,6 +905,11 @@ window.IDW_I18N = {
     "biz_info": "MEJE Works Inc. | Kim Dong-eun | 772-87-02365 | 503, 217, Yeoksam-ro, Gangnam-gu, Seoul | 0507-1420-120"
   },
   "th": {
+    "wiki_badge": "เปิดให้ชมแล้ว",
+    "wiki_kicker": "สำรวจเลย",
+    "wiki_title": "IDONG World วิกิ",
+    "wiki_body": "ไอเท็มสะสม 2,832 ชิ้นและโลกของเหล่าอาอิดงรวมไว้ในที่เดียว",
+    "wiki_button": "เปิดวิกิ →",
     "top_label": "IDONG World",
     "hero_caption": "IDOL + สัตว์ = IDONG",
     "clock_kicker": "ตอนนี้ · นาฬิกา K-pop",
@@ -780,6 +935,11 @@ window.IDW_I18N = {
     "biz_info": "MEJE Works Inc. | Kim Dong-eun | 772-87-02365 | 503, 217, Yeoksam-ro, Gangnam-gu, Seoul | 0507-1420-120"
   },
   "hi": {
+    "wiki_badge": "अब लाइव",
+    "wiki_kicker": "अभी देखें",
+    "wiki_title": "IDONG World विकी",
+    "wiki_body": "2,832 संग्रहणीय आइटम और आइदोंग की पूरी दुनिया, एक ही जगह पर।",
+    "wiki_button": "विकी खोलें →",
     "top_label": "IDONG World",
     "hero_caption": "IDOL + जानवर = IDONG",
     "clock_kicker": "अभी · K-pop घड़ी",
@@ -805,6 +965,11 @@ window.IDW_I18N = {
     "biz_info": "MEJE Works Inc. | Kim Dong-eun | 772-87-02365 | 503, 217, Yeoksam-ro, Gangnam-gu, Seoul | 0507-1420-120"
   },
   "mn": {
+    "wiki_badge": "НЭЭЛТТЭЙ",
+    "wiki_kicker": "Одоо үзэх",
+    "wiki_title": "IDONG World Вики",
+    "wiki_body": "2,832 цуглуулгын зүйл, айдонгуудын ертөнц нэг дор.",
+    "wiki_button": "Вики нээх →",
     "top_label": "IDONG World",
     "hero_caption": "IDOL + АМЬТАН = IDONG",
     "clock_kicker": "Одоо · K-pop цаг",
@@ -830,6 +995,11 @@ window.IDW_I18N = {
     "biz_info": "MEJE Works Inc. | Kim Dong-eun | 772-87-02365 | 503, 217, Yeoksam-ro, Gangnam-gu, Seoul | 0507-1420-120"
   },
   "mi": {
+    "wiki_badge": "KUA TAKE",
+    "wiki_kicker": "Tirohia ināianei",
+    "wiki_title": "IDONG World Wiki",
+    "wiki_body": "2,832 taonga kohinga me te ao katoa o ngā aidong, kei te wāhi kotahi.",
+    "wiki_button": "Huakina te Wiki →",
     "top_label": "IDONG World",
     "hero_caption": "IDOL + KARARERE (kararehe) = IDONG",
     "clock_kicker": "Ināianei · te Karaka K-pop",
@@ -855,6 +1025,11 @@ window.IDW_I18N = {
     "biz_info": "MEJE Works Inc. | Kim Dong-eun | 772-87-02365 | 503, 217, Yeoksam-ro, Gangnam-gu, Seoul | 0507-1420-120"
   },
   "zu": {
+    "wiki_badge": "ISIVULIWE",
+    "wiki_kicker": "Hlola manje",
+    "wiki_title": "I-IDONG World Wiki",
+    "wiki_body": "Izinto zokuqoqa ezingu-2,832 nawo wonke umhlaba wama-aidong endaweni eyodwa.",
+    "wiki_button": "Vula i-Wiki →",
     "top_label": "IDONG World",
     "hero_caption": "IDOL + ISILWANE = IDONG",
     "clock_kicker": "Manje · iWashi le-K-pop",
@@ -880,6 +1055,11 @@ window.IDW_I18N = {
     "biz_info": "MEJE Works Inc. | Kim Dong-eun | 772-87-02365 | 503, 217, Yeoksam-ro, Gangnam-gu, Seoul | 0507-1420-120"
   },
   "ar": {
+    "wiki_badge": "متاح الآن",
+    "wiki_kicker": "استكشف الآن",
+    "wiki_title": "ويكي IDONG World",
+    "wiki_body": "2٬832 عنصرًا للجمع وعالم الأيدونغ بأكمله في مكان واحد.",
+    "wiki_button": "افتح الويكي ←",
     "top_label": "IDONG World",
     "hero_caption": "IDOL + حيوان = IDONG",
     "clock_kicker": "الآن · ساعة الـ K-pop",
@@ -905,6 +1085,11 @@ window.IDW_I18N = {
     "biz_info": "MEJE Works Inc. | Kim Dong-eun | 772-87-02365 | 503, 217, Yeoksam-ro, Gangnam-gu, Seoul | 0507-1420-120"
   },
   "fa": {
+    "wiki_badge": "هم‌اکنون فعال",
+    "wiki_kicker": "همین حالا ببینید",
+    "wiki_title": "ویکی IDONG World",
+    "wiki_body": "۲۸۳۲ آیتم کلکسیونی و کل دنیای آیدونگ در یک مکان.",
+    "wiki_button": "باز کردن ویکی ←",
     "top_label": "IDONG World",
     "hero_caption": "آیدل + حیوان = IDONG",
     "clock_kicker": "همین حالا · ساعت کِی‌پاپ",
@@ -930,6 +1115,11 @@ window.IDW_I18N = {
     "biz_info": "MEJE Works Inc. | Kim Dong-eun | 772-87-02365 | 503, 217, Yeoksam-ro, Gangnam-gu, Seoul | 0507-1420-120"
   },
   "ur": {
+    "wiki_badge": "اب دستیاب",
+    "wiki_kicker": "ابھی دیکھیں",
+    "wiki_title": "IDONG World وکی",
+    "wiki_body": "2,832 جمع کرنے کے آئٹمز اور آئیدونگ کی پوری دنیا ایک جگہ۔",
+    "wiki_button": "وکی کھولیں ←",
     "top_label": "IDONG World",
     "hero_caption": "IDOL + جانور = IDONG",
     "clock_kicker": "ابھی · K-pop گھڑی",
@@ -955,6 +1145,11 @@ window.IDW_I18N = {
     "biz_info": "MEJE Works Inc. | Kim Dong-eun | 772-87-02365 | 503, 217, Yeoksam-ro, Gangnam-gu, Seoul | 0507-1420-120"
   },
   "he": {
+    "wiki_badge": "זמין עכשיו",
+    "wiki_kicker": "לחקור עכשיו",
+    "wiki_title": "ויקי IDONG World",
+    "wiki_body": "2,832 פריטי אספנות וכל עולם האיידונג במקום אחד.",
+    "wiki_button": "פתחו את הוויקי ←",
     "top_label": "IDONG World",
     "hero_caption": "IDOL + חיה = IDONG",
     "clock_kicker": "עכשיו · שעון ה-K-pop",
